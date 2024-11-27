@@ -1,4 +1,4 @@
-# **Sistema de Login e Dashboard**  
+# **Sistema de Gestao de Vendas**  
 
 ---
 
